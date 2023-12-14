@@ -24,6 +24,8 @@ we can use this index to find out which student was matched.
 This programme also create dataframe of of all students present in class and marked Present whenever student is matched .It also updates the time at which student was detetcted.
 <br>
 Finally, it plots graph of number of students present and absent against total students.
+<br>
+It also creates csv file after video is closed.
 
 
 
