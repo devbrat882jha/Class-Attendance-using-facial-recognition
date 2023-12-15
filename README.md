@@ -15,7 +15,7 @@ I have made separate function to store encodings of images, encodings are set of
 <br>
 I have functions of cv2 to capture video frame by frame, this frame will be our image with which we will compare with encoding list.
 <br>
-I have used while loop so that function capture contniously until 'a' key pressed.
+I have used infinite while loop so that function capture contniously until 'a' key pressed.
 <br>
 Whenver person is matched ,it returns boolean value True at same index as encoded list of student.For example encoded list of student [student A, studentB] if the frame is matched with student a the result list will be [true,false].
 <br>
