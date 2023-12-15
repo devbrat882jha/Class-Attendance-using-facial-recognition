@@ -26,6 +26,10 @@ This programme also create dataframe of of all students present in class and mar
 Finally, it plots graph of number of students present and absent against total students.
 <br>
 It also creates csv file after video is closed.
+<br>
+Useful for educational or other organisations. It will particularly teachers to track down wether student is actually present in class or not.
+<br>
+Furthermore it will help teachers to analyse performance of students based of graphs .
 
 
 
