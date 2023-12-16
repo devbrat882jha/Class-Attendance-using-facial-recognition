@@ -5,7 +5,7 @@ PROJECT  DESCRIPTION
 <br>
 This programme recognises any student whose image has been uploaded in image folder,the imagefile should be named after student.
 <br>
-Firstly os module make a list of all files saved in image folder,i have used only two images of public figures.Any number of images could be added in folder.
+Firstly os module make a list of all files saved in image folder,i have used only three images of public figures.Any number of images could be added in folder.
 <br>
 Then  have used for to iterate each image and load data,this data and appended to list.
 <br>
